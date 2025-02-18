@@ -1,5 +1,5 @@
 # Server Codes
-This document is available in the following languages: [English](servercodes-english.md), [简体中文](placeholder), [日本語](placeholder)
+This document is available in the following languages: [English](servercodes-english.md), [简体中文](placeholder), [日本語](placeholder), [Tiếng Việt](servercodes-vietnamese.md)
 
 Pineapple offers a server code tracker for the online game [florr.io](https://florr.io) which can be useful when hunting Super mobs or finding servers to farm in. The following offers a overview of its functions.
 
