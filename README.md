@@ -6,4 +6,7 @@ This repository contains documentation related to the Discord bots [Pineapple](h
 **NOTE: Pineapple and Pineapple Testing are not open source! You will not be able to find the source code here, it is only for keeping track of documentation and a few public files.**
 
 ## Translators
-Translators are directly selected from partnered servers with Pineapple, but you are welcome to translate files that are not already translated! Only markdown (`.md`) files in `docs/` should be translated. Credits for specific translators are given in the header of each translated file.
+Translators are directly selected from partnered servers with Pineapple, but you are welcome to translate files that are not already translated! Only markdown (`.md`) files in `docs/` should be translated.
+
+Thank you very much to the documentation translators who have contributed to the repository:
+- [@nullarea](https://github.com/nulrea): Tiếng Việt (Vietnamese)
